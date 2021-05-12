@@ -11,7 +11,7 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "html2canvas": "1.0.0-rc.4",
-    "swiper": "4.5.0",
+    "swiper": "6.5.1",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
     "vue-ydui": "^1.2.6"
